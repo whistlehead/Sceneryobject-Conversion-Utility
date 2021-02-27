@@ -1,0 +1,23 @@
+This file was made using Chris Nightingale's Sceneryobject Conversion Utility: https://fellowsfilm.com/downloads/sceneryobject-conversion-utility.1767/
+
+The model may be original, or may be converted from the 3D Warehouse in compliance with their Terms of Service: https://3dwarehouse.sketchup.com/tos.html#terms
+
+Converted on:
+<DATE>
+
+=======================================
+
+[groups]
+<GROUPNO>
+<GROUPS>
+[friendlyname]
+<FRIENDLYNAME>
+
+=======================================
+
+[mesh]
+<MESHNAME>.o3d
+
+=======================================
+
+<MATERIALS>
